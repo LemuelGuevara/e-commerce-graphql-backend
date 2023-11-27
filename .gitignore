@@ -1,0 +1,7 @@
+/venv
+*.yaml
+pycache
+MANIFEST
+*.iml
+_pycache_
+.env
